@@ -1,0 +1,4 @@
+'*.csv' filter=lfs diff=lfs merge=lfs -text
+.csv filter=lfs diff=lfs merge=lfs -text
+MNIST-and-Fashion-MNIST-convert-to-csv/Converted filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
